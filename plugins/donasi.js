@@ -6,6 +6,11 @@ let handler = async m => m.reply(`
 │ • 𝙂𝙞𝙩𝙝𝙪𝙗 :  x x x x x x x x
 │ • x x x x x x x x x x x x
 │ •  x x x x x x x x x x x
+│ • INFO DONASI
+│ • [wa.me/6281313293689]
+│ •  ` GABUNG GRUP WA `
+│ • ' https://chat.whatsapp.com/JErb5W6R7NKEGFO2QJxokG `
+│ • NGENTO LO SEMUA PADA
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
