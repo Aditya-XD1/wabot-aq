@@ -17,7 +17,7 @@ let handler = async m => m.reply(`
 │ • x x x x x x x x x x x x x x x 
 │ • 
 │ •  [ 𝘼𝘿𝙄𝙏 𝙈𝘼𝙃𝘼 𝙆𝙀𝙍𝙀𝙉 ]
-╰────
+╰──── [ 𝘼𝘿𝙄𝙏 𝙈𝘼𝙃𝘼 𝙆𝙀𝙍𝙀𝙉 ]
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
