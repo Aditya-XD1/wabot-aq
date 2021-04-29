@@ -3,6 +3,9 @@ let handler = async m => m.reply(`
 │ • Dana [083113079181]
 │ • Telkomsel [081313293689]
 │ • Axis [083113079181]
+│ • Telkomsel
+│ • Telkomsel
+│ • Telkomsel
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
